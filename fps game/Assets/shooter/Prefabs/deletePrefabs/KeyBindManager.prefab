@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1427655400652060}
+  m_IsPrefabParent: 1
+--- !u!1 &1427655400652060
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4030950612759544}
+  - component: {fileID: 114675995922742012}
+  m_Layer: 0
+  m_Name: KeyBindManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4030950612759544
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1427655400652060}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114675995922742012
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1427655400652060}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2e75536d6e904905bf9527efeb0950a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sprintKey: {fileID: 0}
+  crouchKey: {fileID: 0}
+  fireKey: {fileID: 0}
+  adsKey: {fileID: 0}
+  sprintToggleKey: {fileID: 0}
+  crouchToggleKey: {fileID: 0}
+  adsToggleKey: {fileID: 0}
+  interactKey: {fileID: 0}
+  weaponSwapKey: {fileID: 0}
+  pauseMenuKey: {fileID: 0}
+  jumpKey: {fileID: 0}
+  reloadKey: {fileID: 0}
+  fireModeKey: {fileID: 0}
+  throwObject: {fileID: 0}

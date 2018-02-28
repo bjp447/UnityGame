@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pick Up
+  - SensSlider
+  - ControlsPanel
+  - enemy
+  - Projectile
+  - WalkForward
+  - CycleFireMode
+  - WalkBackward
+  - StrafeLeft
+  - StrafeRight
+  - Jump
+  - ground
+  - Gun
+  - Ammo
+  - HealthPack
+  - Point
+  - Elevator
+  - Gate
+  - ControlPanel
+  - LiftControlPanel
+  - UI
+  - Platform
+  - fragGrenade
+  - PauseMenu
+  - LvlData
+  - CheckpointTrigger
+  - RestartBtn
+  - QuitBtn
+  - CheckpointBtn
+  - KeyButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - IgnoreRayCast
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
